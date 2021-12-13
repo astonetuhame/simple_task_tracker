@@ -1,4 +1,4 @@
-# task_tracker
+# Task Tracker
 A simple task tracker app built using Vue.js
 
 ## Installation
