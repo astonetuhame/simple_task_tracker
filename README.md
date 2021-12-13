@@ -13,7 +13,3 @@ npm run backend
 
 * [Vue.JS 3](https://v3.vuejs.org/) - Frontend
 * [Json Server](https://www.npmjs.com/package/json-server) - Backend
-
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
