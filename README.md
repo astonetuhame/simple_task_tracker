@@ -18,7 +18,7 @@ npm run build
 ```
 ## Built With
 
-* [Vue.JS 3](https://v3.vuejs.org/) - The web framework used
+* [Vue.JS 3](https://v3.vuejs.org/) - Frontend
 * [Json Server](https://www.npmjs.com/package/json-server) - Backend
 
 
