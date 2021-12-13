@@ -3,6 +3,7 @@ A simple task tracker app built using Vue.js
 
 ## Project setup
 ```
+Clone the repository
 npm install
 ```
 
